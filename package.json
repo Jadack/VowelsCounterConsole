@@ -1,0 +1,22 @@
+{
+  "name": "vowels-counter-console",
+  "version": "1.0.0",
+  "description": "Console app to count vowels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jadack/VowelsCounterConsole.git"
+  },
+  "author": "Jack Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jadack/VowelsCounterConsole/issues"
+  },
+  "homepage": "https://github.com/Jadack/VowelsCounterConsole#readme",
+  "dependencies": {
+    "vowels-counter": "^1.0.1"
+  }
+}
