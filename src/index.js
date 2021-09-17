@@ -1,11 +1,11 @@
 // Initial Configuration
-const VCounter = require('vowels-counter');
-const ReadLine = require('readline');
-let readLine = ReadLine.createInterface({
+import { VowelsCounter } from 'vowels-counter';
+import readline from 'readline';
+let readLine = readline.createInterface({
   input: process.stdin,
   output: process.stdout
 });
-let vc = VCounter.VowelsCounter;
+let vc = new VowelsCounter();
 
 // Initial Function
 function init() {
