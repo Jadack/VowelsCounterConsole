@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Jadack/VowelsCounterConsole#readme",
   "dependencies": {
-    "vowels-counter": "^1.0.3"
+    "vowels-counter": "^1.0.4"
   }
 }
